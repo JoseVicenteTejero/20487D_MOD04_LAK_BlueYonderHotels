@@ -1,0 +1,9 @@
+c:\20487D\AllFiles\Mod04\LabFiles\Lab1\Starter\BlueYonder.Hotels\BlueYonder.Hotels.DAL\bin\Debug\netcoreapp2.1\BlueYonder.Hotels.DAL.deps.json
+c:\20487D\AllFiles\Mod04\LabFiles\Lab1\Starter\BlueYonder.Hotels\BlueYonder.Hotels.DAL\bin\Debug\netcoreapp2.1\BlueYonder.Hotels.DAL.dll
+c:\20487D\AllFiles\Mod04\LabFiles\Lab1\Starter\BlueYonder.Hotels\BlueYonder.Hotels.DAL\bin\Debug\netcoreapp2.1\BlueYonder.Hotels.DAL.pdb
+c:\20487D\AllFiles\Mod04\LabFiles\Lab1\Starter\BlueYonder.Hotels\BlueYonder.Hotels.DAL\obj\Debug\netcoreapp2.1\BlueYonder.Hotels.DAL.csprojAssemblyReference.cache
+c:\20487D\AllFiles\Mod04\LabFiles\Lab1\Starter\BlueYonder.Hotels\BlueYonder.Hotels.DAL\obj\Debug\netcoreapp2.1\BlueYonder.Hotels.DAL.AssemblyInfoInputs.cache
+c:\20487D\AllFiles\Mod04\LabFiles\Lab1\Starter\BlueYonder.Hotels\BlueYonder.Hotels.DAL\obj\Debug\netcoreapp2.1\BlueYonder.Hotels.DAL.AssemblyInfo.cs
+c:\20487D\AllFiles\Mod04\LabFiles\Lab1\Starter\BlueYonder.Hotels\BlueYonder.Hotels.DAL\obj\Debug\netcoreapp2.1\BlueYonder.Hotels.DAL.csproj.CoreCompileInputs.cache
+c:\20487D\AllFiles\Mod04\LabFiles\Lab1\Starter\BlueYonder.Hotels\BlueYonder.Hotels.DAL\obj\Debug\netcoreapp2.1\BlueYonder.Hotels.DAL.dll
+c:\20487D\AllFiles\Mod04\LabFiles\Lab1\Starter\BlueYonder.Hotels\BlueYonder.Hotels.DAL\obj\Debug\netcoreapp2.1\BlueYonder.Hotels.DAL.pdb
